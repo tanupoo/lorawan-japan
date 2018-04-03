@@ -7,7 +7,7 @@
 
 プルリクは遠慮なく下さい。
 
-- [デバイス](https://github.com/tanupoo/lorawan-japan/dev/)
+- [デバイス](https://github.com/tanupoo/lorawan-japan/tree/master/device/)
 
 - ゲートウエイ
 
