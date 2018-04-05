@@ -5,27 +5,23 @@ Tue Apr  3 09:22:33 JST 2018
 
 ## ABIT
 
-[TASUKIトラッカー AL-090 -
-株式会社エイビット](http://www.abit.co.jp/products/al090/ "http://www.abit.co.jp/products/al090/") 
+[TASUKIトラッカー AL-090](http://www.abit.co.jp/products/al090/ "http://www.abit.co.jp/products/al090/") 
 
-[LoRa 水位センサー -
-株式会社エイビット](http://www.abit.co.jp/products/wlsensor/ "http://www.abit.co.jp/products/wlsensor/") 
+[LoRa 水位センサー
+](http://www.abit.co.jp/products/wlsensor/ "http://www.abit.co.jp/products/wlsensor/") 
 
-[地滑りセンサー スマくい AL-070 -
-株式会社エイビット](http://www.abit.co.jp/products/al070/ "http://www.abit.co.jp/products/al070/") 
+[地滑りセンサー スマくい AL-070
+](http://www.abit.co.jp/products/al070/ "http://www.abit.co.jp/products/al070/") 
 
-[LoRa 灯油残量センサー -
-株式会社エイビット](http://www.abit.co.jp/products/fuelgauge/ "http://www.abit.co.jp/products/fuelgauge/") 
+[LoRa 灯油残量センサー](http://www.abit.co.jp/products/fuelgauge/ "http://www.abit.co.jp/products/fuelgauge/") 
 
-[LoRa Arduino 開発シールド AL-050 -
-株式会社エイビット](http://www.abit.co.jp/products/al050/ "http://www.abit.co.jp/products/al050/") 
+[LoRa Arduino 開発シールド AL-050](http://www.abit.co.jp/products/al050/ "http://www.abit.co.jp/products/al050/") 
 
-[LoRa モジュール AL-010 -
-株式会社エイビット](http://www.abit.co.jp/products/al010/ "http://www.abit.co.jp/products/al010/") 
+[LoRa モジュール AL-010](http://www.abit.co.jp/products/al010/ "http://www.abit.co.jp/products/al010/") 
 
 ## Braveridge
 
-[「BVMLRS923N52S」LoRaWAN™/BLE 対応コンボモジュール | IoTデバイスの開発から量産 まで – 株式会社Braveridge](https://ssl.braveridge.com/product/722/)
+[「BVMLRS923N52S」LoRaWAN™/BLE 対応コンボモジュール](https://ssl.braveridge.com/product/722/)
 
 ## EASEL
 
@@ -60,17 +56,13 @@ M.O.S.T対応](https://www.trackers.jp/products_lt-501.html "https://www.tracker
 
 ## GREENHOUSE
 
-[GH-GPSTLRA | GREEN HOUSE
-グリーンハウス](https://www.green-house.co.jp/products/gh-gpstlra/ "https://www.green-house.co.jp/products/gh-gpstlra/") 
+[GH-GPSTLRA](https://www.green-house.co.jp/products/gh-gpstlra/ "https://www.green-house.co.jp/products/gh-gpstlra/") 
 
-[GH-MSNLRA | GREEN HOUSE
-グリーンハウス](https://www.green-house.co.jp/products/gh-msnlra/ "https://www.green-house.co.jp/products/gh-msnlra/") 
+[GH-MSNLRA](https://www.green-house.co.jp/products/gh-msnlra/ "https://www.green-house.co.jp/products/gh-msnlra/") 
 
-[開発ツール | GREEN HOUSE
-グリーンハウス](https://www.green-house.co.jp/iot-wireless/development-tool/#sdk-920 "https://www.green-house.co.jp/iot-wireless/development-tool/#sdk-920") 
+[開発ツール](https://www.green-house.co.jp/iot-wireless/development-tool/#sdk-920 "https://www.green-house.co.jp/iot-wireless/development-tool/#sdk-920") 
 
-[無線モジュール | GREEN HOUSE
-グリーンハウス](https://www.green-house.co.jp/iot-wireless/wireless-module/#920mhz-lora-fsk "https://www.green-house.co.jp/iot-wireless/wireless-module/#920mhz-lora-fsk") 
+[無線モジュール](https://www.green-house.co.jp/iot-wireless/wireless-module/#920mhz-lora-fsk "https://www.green-house.co.jp/iot-wireless/wireless-module/#920mhz-lora-fsk") 
 
 ## Kiwitec
 
@@ -78,10 +70,13 @@ M.O.S.T対応](https://www.trackers.jp/products_lt-501.html "https://www.tracker
 
 [長距離無線通信](http://www.kiwi-tec.com/products/long-range-communication/ "http://www.kiwi-tec.com/products/long-range-communication/") 
 
+## 村田製作所
+
+[LoRaモジュール](https://www.murata.com/ja-jp/products/lpwa/lora)
+
 ## レンジャーシステムズ
 
-[IoTコネクティングサービス「monoコネクト LoRaWAN」 |
-MVNOやIoTサービスの企画・提案・構築・運用・保守ならレンジャーシステムズ（東京都港区新橋）](http://www.ranger-systems.co.jp/iot/lorawan.html "http://www.ranger-systems.co.jp/iot/lorawan.html") 
+[IoTコネクティングサービス「monoコネクト LoRaWAN」](http://www.ranger-systems.co.jp/iot/lorawan.html "http://www.ranger-systems.co.jp/iot/lorawan.html") 
 
 - GPSセンサー
 - ソーラーパネル付きLoRaタグ　
@@ -94,4 +89,6 @@ MVNOやIoTサービスの企画・提案・構築・運用・保守ならレン�
 
 [LoRaWANTM / BLE対応コンボモジュール](http://www.ryoyo-web.jp/semi/detail_solution/1495428032-057372/)
 
+## 横河電機
 
+[Sushi Sensor](https://www.yokogawa.co.jp/solutions/solutions/iiot/maintenance/sushi-sensor-j/)
