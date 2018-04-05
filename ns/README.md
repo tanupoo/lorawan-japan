@@ -1,6 +1,8 @@
 LoRaWAN ネットワークサーバ
 =========================
 
+Thu Apr  5 17:11:06 JST 2018
+
 ## マクニカネットワークス
 
 [Actility アクティリティ － キャリアグレードのLoRaWANネットワークサーバ](https://www.macnica.net/actility/)

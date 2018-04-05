@@ -1,6 +1,8 @@
 LoRaWAN アプリケーションサーバ
 ==============================
 
+Thu Apr  5 17:10:58 JST 2018
+
 ## my Devices
 
 [LoRaWAN - myDevices.com](https://mydevices.com/cayenne/features/lora/)

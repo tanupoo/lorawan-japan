@@ -1,6 +1,8 @@
 LoRaWAN 接続サービス
 ====================
 
+Thu Apr  5 17:11:11 JST 2018
+
 ## freebit
 
 [IoTプラットフォームをセキュアに一括提供](https://cloud.freebit.com/iot/)
