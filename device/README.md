@@ -5,9 +5,6 @@ Tue Apr  3 09:22:33 JST 2018
 
 ## ABIT
 
-[LoRaWAN ソリューション -
-株式会社エイビット](http://www.abit.co.jp/products/lorawan/ "http://www.abit.co.jp/products/lorawan/") 
-
 [TASUKIトラッカー AL-090 -
 株式会社エイビット](http://www.abit.co.jp/products/al090/ "http://www.abit.co.jp/products/al090/") 
 
@@ -25,6 +22,10 @@ Tue Apr  3 09:22:33 JST 2018
 
 [LoRa モジュール AL-010 -
 株式会社エイビット](http://www.abit.co.jp/products/al010/ "http://www.abit.co.jp/products/al010/") 
+
+## Braveridge
+
+[「BVMLRS923N52S」LoRaWAN™/BLE 対応コンボモジュール | IoTデバイスの開発から量産 まで – 株式会社Braveridge](https://ssl.braveridge.com/product/722/)
 
 ## EASEL
 
@@ -88,3 +89,9 @@ MVNOやIoTサービスの企画・提案・構築・運用・保守ならレン�
 - 自動車用GPSセンサー
 - マットセンサー
 - 温湿度センサー
+
+## 菱洋エレクトロ
+
+[LoRaWANTM / BLE対応コンボモジュール](http://www.ryoyo-web.jp/semi/detail_solution/1495428032-057372/)
+
+

@@ -9,7 +9,7 @@
 
 - [デバイス](https://github.com/tanupoo/lorawan-japan/tree/master/device/)
 
-- ゲートウエイ
+- [ゲートウエイ](https://github.com/tanupoo/lorawan-japan/tree/master/gateway/)
 
 - ネットワークサーバ
 
