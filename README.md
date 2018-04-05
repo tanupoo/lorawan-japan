@@ -21,6 +21,6 @@ LoRaWANのいいところは免許不要でゲートウエイを立てて
 
 - [ネットワークサーバ](https://github.com/tanupoo/lorawan-japan/tree/master/ns/)
 
-- アプリケーションサーバ
+- [アプリケーションサーバ](https://github.com/tanupoo/lorawan-japan/tree/master/as/)
 
-- アプリケーション
+- [サービス](https://github.com/tanupoo/lorawan-japan/tree/master/service/)
