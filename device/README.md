@@ -54,6 +54,8 @@ M.O.S.T対応](https://www.trackers.jp/products_lt-501.html "https://www.tracker
 [LW-360HR　ウェアラブルLoRaトラッカー |
 株式会社GISupply](https://www.trackers.jp/products_lw-360hr.html "https://www.trackers.jp/products_lw-360hr.html") 
 
+(Globalsat)
+
 ## GREENHOUSE
 
 [GH-GPSTLRA](https://www.green-house.co.jp/products/gh-gpstlra/ "https://www.green-house.co.jp/products/gh-gpstlra/") 
