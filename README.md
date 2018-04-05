@@ -5,13 +5,14 @@
 
 記載している情報の扱いは自己責任でお願いします。
 
+オープンな情報を集めています。
 プルリクは遠慮なく下さい。
 
 - [デバイス](https://github.com/tanupoo/lorawan-japan/tree/master/device/)
 
 - [ゲートウエイ](https://github.com/tanupoo/lorawan-japan/tree/master/gateway/)
 
-- ネットワークサーバ
+- [ネットワークサーバ](https://github.com/tanupoo/lorawan-japan/tree/master/ns/)
 
 - アプリケーションサーバ
 

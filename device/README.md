@@ -74,6 +74,14 @@ M.O.S.T対応](https://www.trackers.jp/products_lt-501.html "https://www.tracker
 
 [LoRaモジュール](https://www.murata.com/ja-jp/products/lpwa/lora)
 
+## オープンウェーブ
+
+[LoRa ゲートウェイ／センサーノード | 株式会社オープンウェーブ](http://www.openwave.co.jp/lorawan/)
+
+- LoRaWAN対応IoTセンサーノード LoRa mini-JP
+
+- LoRa Mini Dev-JP
+
 ## レンジャーシステムズ
 
 [IoTコネクティングサービス「monoコネクト LoRaWAN」](http://www.ranger-systems.co.jp/iot/lorawan.html "http://www.ranger-systems.co.jp/iot/lorawan.html") 
@@ -88,6 +96,10 @@ M.O.S.T対応](https://www.trackers.jp/products_lt-501.html "https://www.tracker
 ## 菱洋エレクトロ
 
 [LoRaWANTM / BLE対応コンボモジュール](http://www.ryoyo-web.jp/semi/detail_solution/1495428032-057372/)
+
+## STマイクロ
+
+[B-L072Z-LRWAN1](http://www.st.com/ja/evaluation-tools/b-l072z-lrwan1.html)
 
 ## 横河電機
 
