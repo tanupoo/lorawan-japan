@@ -1,5 +1,5 @@
-LoRaWAN 接続サービス
-====================
+LoRaWAN 接続サービス/サービス
+=============================
 
 Thu Apr  5 17:11:11 JST 2018
 
@@ -10,6 +10,10 @@ Thu Apr  5 17:11:11 JST 2018
 ## KDDI
 
 [LoRa PoCキット | IoTソリューション | au 法人・ビジネス向け | KDDI株式会社](http://www.kddi.com/business/mobile/m2m-solution/lora-pockit/)
+
+## みまもーら
+
+[介護・ペット見守り](http://www.mimamora.com/)
 
 ## NTTドコモ
 
