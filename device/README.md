@@ -118,6 +118,10 @@ M.O.S.T対応](https://www.trackers.jp/products_lt-501.html "https://www.tracker
 - マットセンサー
 - 温湿度センサー
 
+## RF Link
+
+[RM-92A](http://www.rflink.co.jp/000_seihin_RM92A.html)
+
 ## 菱洋エレクトロ
 
 [LoRaWANTM / BLE対応コンボモジュール](http://www.ryoyo-web.jp/semi/detail_solution/1495428032-057372/)
