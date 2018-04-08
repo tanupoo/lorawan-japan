@@ -99,6 +99,9 @@ M.O.S.T対応](https://www.trackers.jp/products_lt-501.html "https://www.tracker
 
 [LoRaモジュール](https://www.murata.com/ja-jp/products/lpwa/lora)
 
+- CMWX1ZZABZ-078
+- CMWX1ZZABZ-091
+
 ## オープンウェーブ
 
 [LoRa ゲートウェイ／センサーノード | 株式会社オープンウェーブ](http://www.openwave.co.jp/lorawan/)
