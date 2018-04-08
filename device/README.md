@@ -26,6 +26,28 @@ Tue Apr  3 09:22:33 JST 2018
 
 ## EASEL
 
+[920MHz帯LoRaモジュール　ES920LR](http://easel5.com/productinfo/lora_module.html)
+
+- 920MHz帯LoRaモジュール
+
+    + ES920LR: 外付けアンテナタイプ
+    + ES920LRA1: ワイヤーアンテナ(A1)タイプ
+
+- 開発/評価用モジュール
+
+    + ES920LRB: 外付けアンテナタイプ
+    + ES920LRA1B: ワイヤーアンテナ(A1)タイプ
+
+[温湿度センシングユニット ES920LRTH1](http://easel5.com/productinfo/lora_thermohygro.html)
+
+[照度センシングユニット ES920LRI](http://easel5.com/productinfo/lora_illumi.html)
+
+[人感センシングユニット ES920LRH](http://easel5.com/productinfo/lora_humansensor.html)
+
+[開閉センシングユニット ES920LRM](http://easel5.com/productinfo/lora_openclose.html)
+
+[HIBRID ROUTER(ハイブリッドルーター)　ES920BLE-S1](http://easel5.com/productinfo/lora_ble.html)
+
 [製品情報](http://easel5.com/productinfo/ "http://easel5.com/productinfo/")
 
 ## GISupply
