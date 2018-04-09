@@ -11,6 +11,8 @@ Thu Apr  5 17:11:11 JST 2018
 
 [LoRa PoCキット | IoTソリューション | au 法人・ビジネス向け | KDDI株式会社](http://www.kddi.com/business/mobile/m2m-solution/lora-pockit/)
 
+## ミマモルメ
+
 ## みまもーら
 
 [介護・ペット見守り](http://www.mimamora.com/)

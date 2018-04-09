@@ -1,8 +1,7 @@
 日本向け LoRaWAN対応センサー/評価ボード/RFモジュール
 ====================================================
 
-Tue Apr  3 09:22:33 JST 2018
-
+Mon Apr  9 10:24:34 JST 2018
 
 ## ABIT
 
@@ -22,7 +21,7 @@ Tue Apr  3 09:22:33 JST 2018
 
 ## Braveridge
 
-[「BVMLRS923N52S」LoRaWAN™/BLE 対応コンボモジュール](https://ssl.braveridge.com/product/722/)
+[「BVMLRS923N52S」LoRaWAN/BLE 対応コンボモジュール](https://ssl.braveridge.com/product/722/)
 
 ## EASEL
 
@@ -50,6 +49,10 @@ Tue Apr  3 09:22:33 JST 2018
 
 [製品情報](http://easel5.com/productinfo/ "http://easel5.com/productinfo/")
 
+## 富士通コンポーネント
+
+[IoT機器向けLoRaWAN対応特定小電力無線モジュール発売および カスタムユニット製品のご案内 : 富士通コンポーネント](http://www.fujitsu.com/jp/group/fcl/resources/news/press-releases/2017/20170929.html)
+
 ## GISupply
 
 [LoRaトラッカー
@@ -58,7 +61,7 @@ LT-100は長距離・省電力無線端末](https://www.trackers.jp/products_lt-
 [LT-501　LoRa/GPS/Beaconトラッカー |　 LoRaWAN/LoRa
 M.O.S.T対応](https://www.trackers.jp/products_lt-501.html "https://www.trackers.jp/products_lt-501.html") 
 
-[LoRaWAN™対応 LS-134H
+[LoRaWAN 対応 LS-134H
 熱煙センサー](https://www.trackers.jp/products_ls-134h.html "https://www.trackers.jp/products_ls-134h.html") 
 
 [LS-111P　LoRaWAN対応CO2センサー](https://www.trackers.jp/products_ls-111_co2.html "https://www.trackers.jp/products_ls-111_co2.html") 
@@ -109,6 +112,10 @@ M.O.S.T対応](https://www.trackers.jp/products_lt-501.html "https://www.tracker
 - LoRaWAN対応IoTセンサーノード LoRa mini-JP
 
 - LoRa Mini Dev-JP
+
+## ぷらっとホーム
+
+[OpenBlocks IoT VX2 - OpenBlocks](https://openblocks.plathome.co.jp/products/obs_iot/vx2/)
 
 ## レンジャーシステムズ
 

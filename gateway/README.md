@@ -34,10 +34,6 @@ Thu Apr  5 14:09:25 JST 2018
 
 (Dragino)
 
-## ぷらっとホーム
-
-[OpenBlocks IoT VX2 - OpenBlocks](https://openblocks.plathome.co.jp/products/obs_iot/vx2/)
-
 ## 菱洋エレクトロ
 
 [Gemtek LoRa Gateway](http://www.ryoyo-web.jp/semi/detail_solution/1511869717-555435/)
