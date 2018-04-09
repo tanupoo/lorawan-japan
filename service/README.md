@@ -7,11 +7,17 @@ Thu Apr  5 17:11:11 JST 2018
 
 [IoTプラットフォームをセキュアに一括提供](https://cloud.freebit.com/iot/)
 
+## 日立システムズ
+
+[マンホールの防犯・安全対策ソリューション](https://www.hitachi-systems.com/sp/manhole/index.html)
+
 ## KDDI
 
-[LoRa PoCキット | IoTソリューション | au 法人・ビジネス向け | KDDI株式会社](http://www.kddi.com/business/mobile/m2m-solution/lora-pockit/)
+[LoRa PoCキット](http://www.kddi.com/business/mobile/m2m-solution/lora-pockit/)
 
-## ミマモルメ
+## 阪急阪神東宝グループ
+
+[阪神あんしんサービス　登下校ミマモルメ](http://www.hanshin-anshin.jp/)
 
 ## みまもーら
 
@@ -19,11 +25,11 @@ Thu Apr  5 17:11:11 JST 2018
 
 ## NTTドコモ
 
-[ドコモのLPWA : docomoのLoRaソリューション | 法人のお客さま | NTTドコモ](https://www.nttdocomo.co.jp/biz/special/iot/lpwa/lora/)
+[ドコモのLPWA](https://www.nttdocomo.co.jp/biz/special/iot/lpwa/lora/)
 
 ## センスウェイ
 
-[サービス概要 ｜ センスウェイ株式会社](https://www.senseway.net/service/service-overview/)
+[サービス概要](https://www.senseway.net/service/service-overview/)
 
 ## ソフトバンク
 
