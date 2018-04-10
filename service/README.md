@@ -29,6 +29,10 @@ Thu Apr  5 17:11:11 JST 2018
 
 [ドコモのLPWA](https://www.nttdocomo.co.jp/biz/special/iot/lpwa/lora/)
 
+## NTTネオメイト
+
+[クラスB 通信の商用提供開始](http://www.ntt-neo.com/news/2017/171117.html)
+
 ## センスウェイ
 
 [サービス概要](https://www.senseway.net/service/service-overview/)
