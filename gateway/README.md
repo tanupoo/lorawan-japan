@@ -17,6 +17,12 @@ Thu Apr  5 14:09:25 JST 2018
 
 ## IIJ
 
+## Interpolation
+
+[LoRaWAN IoT ステーション](https://www.inter-polation.com/ja/products/kerlink-station-jp/)
+
+(Kerlink)
+
 ## Kerlink
 
 [Kerlink Wirnet iBTS IoT outdoor LoRaWANTM gateway](https://www.kerlink.com/product/wirnet-ibts/)

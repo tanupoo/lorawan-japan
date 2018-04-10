@@ -96,6 +96,27 @@ M.O.S.T対応](https://www.trackers.jp/products_lt-501.html "https://www.tracker
 
 [LoRaエリア検証キット](http://hatapro.co.jp/news/170317lora/)
 
+## Interpolation
+
+[街路灯管理 InteliLIGHT](https://www.inter-polation.com/ja/solutions/street-light-management-platform-and-services/)
+
+[物流センサー：fflyTrack](https://www.inter-polation.com/ja/products/asset-trackers%ef%bc%9affly4u/)
+
+[水消費センサー](https://www.inter-polation.com/ja/products/blue-pulse-jp/)
+
+[ドライ コンタクト センサー ](https://www.inter-polation.com/ja/products/black_one_jp/)
+
+[温度 / 湿度センサー ](https://www.inter-polation.com/ja/products/green-comfort-jp/)
+
+[電力消費センサー](https://www.inter-polation.com/ja/products/yellow-pulse-jp/)
+
+[電力消費量＆生産量センサー](https://www.inter-polation.com/ja/products/p%ef%bc%9bl%ef%bc%90/)
+
+[MM002-L-JP](https://www.inter-polation.com/ja/products/%e6%97%a5%e6%9c%ac%e3%81%ae-mm002-l/)
+
+[MK002-L-JP USB](https://www.inter-polation.com/ja/products/mk002-l-jp-usb/)
+
+
 ## Kiwitec
 
 [ADB922S](https://www.loraiotproducts.eu/index.php/en/lora-modules/adb922s-detail "https://www.loraiotproducts.eu/index.php/en/lora-modules/adb922s-detail") 
