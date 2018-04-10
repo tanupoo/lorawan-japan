@@ -92,6 +92,10 @@ M.O.S.T対応](https://www.trackers.jp/products_lt-501.html "https://www.tracker
 
 [無線モジュール](https://www.green-house.co.jp/iot-wireless/wireless-module/#920mhz-lora-fsk "https://www.green-house.co.jp/iot-wireless/wireless-module/#920mhz-lora-fsk") 
 
+## ハタプロ
+
+[LoRaエリア検証キット](http://hatapro.co.jp/news/170317lora/)
+
 ## Kiwitec
 
 [ADB922S](https://www.loraiotproducts.eu/index.php/en/lora-modules/adb922s-detail "https://www.loraiotproducts.eu/index.php/en/lora-modules/adb922s-detail") 
@@ -104,6 +108,10 @@ M.O.S.T対応](https://www.trackers.jp/products_lt-501.html "https://www.tracker
 
 - CMWX1ZZABZ-078
 - CMWX1ZZABZ-091
+
+## NST GLOBALIST
+
+[センサー多機能ユニット SpreadRouter-MW](https://www.nstg-sr.com/spreadrouter-mw/)
 
 ## オープンウェーブ
 
