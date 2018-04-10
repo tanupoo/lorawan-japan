@@ -31,6 +31,14 @@ Thu Apr  5 14:09:25 JST 2018
 
 [Kerlink Wirnet iFemtoCell IoT indoor LoRaWAN gateway](https://www.kerlink.com/product/wirnet-ifemtocell/)
 
+## Kiwi Technology
+
+[長距離無線通信](http://www.kiwi-tec.com/ja/products/long-range-communication/)
+
+- High Capacity Gateway
+- High Capacity Indoor Gateway
+- Hyper Outdoor Gateway
+
 ## オープンウェーブ
 
 [LoRa ゲートウェイ／センサーノード](http://www.openwave.co.jp/lorawan/)

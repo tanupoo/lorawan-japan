@@ -117,11 +117,15 @@ M.O.S.T対応](https://www.trackers.jp/products_lt-501.html "https://www.tracker
 [MK002-L-JP USB](https://www.inter-polation.com/ja/products/mk002-l-jp-usb/)
 
 
-## Kiwitec
+## Kiwi Technology
 
-[ADB922S](https://www.loraiotproducts.eu/index.php/en/lora-modules/adb922s-detail "https://www.loraiotproducts.eu/index.php/en/lora-modules/adb922s-detail") 
+[長距離無線通信](http://www.kiwi-tec.com/ja/products/long-range-communication/)
 
-[長距離無線通信](http://www.kiwi-tec.com/products/long-range-communication/ "http://www.kiwi-tec.com/products/long-range-communication/") 
+- Arduino Development Board
+- TLM922S-P01A
+- LAS-101 Series
+- LAS-201 Series
+- LAS-301 Series
 
 ## 村田製作所
 
