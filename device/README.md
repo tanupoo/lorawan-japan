@@ -109,6 +109,10 @@ M.O.S.T対応](https://www.trackers.jp/products_lt-501.html "https://www.tracker
 - CMWX1ZZABZ-078
 - CMWX1ZZABZ-091
 
+## Multitech (昌新)
+
+[LoRa WAN対応ルーター「MultiConnectシリーズ」](https://premium.ipros.jp/shoshin/product/detail/2000304406)
+
 ## NST GLOBALIST
 
 [センサー多機能ユニット SpreadRouter-MW](https://www.nstg-sr.com/spreadrouter-mw/)
