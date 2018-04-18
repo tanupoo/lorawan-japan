@@ -21,6 +21,10 @@ Thu Apr  5 17:11:11 JST 2018
 
 [阪神あんしんサービス　登下校ミマモルメ](http://www.hanshin-anshin.jp/)
 
+## ライブリッジ
+
+[LPWAを活用したGPS見守りサービス](https://www.liveridge.com/iot/)
+
 ## みまもーら
 
 [介護・ペット見守り](http://www.mimamora.com/)
